@@ -1,0 +1,18 @@
+-- <HTML> --
+
+The <html> tag is the root level element of an HTML document. 
+    All other elements must be descendants of this element.
+
+-Attributes-
+    /manifest
+        Specifies the URI of a resource manifest indicating resource that should be cached locally
+
+    /version
+        version attribute specifies the HTML document type definition that governs the current document.
+        It is redundant with the version information in the document type declaration. 
+        
+    /xmlns
+        Specifies the XML Namespace of the document. Default value is "http://www.w3.org/1999/xhtml"
+        Required in documents parsed with XML parsers, optional in text/html documents. 
+
+

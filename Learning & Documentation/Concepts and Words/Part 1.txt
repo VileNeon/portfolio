@@ -1,0 +1,9 @@
+--URI--
+
+URI stands for Uniform Resource Identifier and it is a string that refers to a resource. 
+Most common type are URL (Uniform Resource Locator) which identify the resource by giving its location on the web. 
+URN(Uniform Resource Name) refer to a resource by name, in a given namespace such as the ISBN of a book. 
+
+--Manifest (in the context of HTML)--
+
+--xmlns & xml--
